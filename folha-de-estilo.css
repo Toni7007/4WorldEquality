@@ -100,8 +100,11 @@ a:link {
 a:visited {
 color: purple;
 }
+a:hover {
+ text-decoration: underline;
+}
 a:active {
-text-decoration: underline; 
-background-color: black;
-color: white;
+ text-decoration: underline;
+ background-color: black;
+ color: white;
 }
