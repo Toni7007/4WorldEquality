@@ -69,7 +69,7 @@ nav ul li a {
 text-decoration:none;
  color:#111111
 }
-table{
+table {
   font-size:70%;
   border-collapse: collapse;
   width: 100%;
@@ -88,5 +88,20 @@ td {
 nav ul li a {
 text-decoration:none;
 }
-nav li.selecionado{
+nav li.selecionado {
   color:#606060;
+}
+nav li a:hover {
+ text-decoration:underline;
+}
+a:link {
+ color: blue;
+}
+a:visited {
+ text-decoration: underline;
+}
+a:active {
+ text-decoration: underline;
+ background-color: black;
+ color: white;
+}
