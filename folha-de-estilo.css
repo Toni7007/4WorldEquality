@@ -64,10 +64,10 @@ padding-left: 8px;
 }
 nav ul li: last-child {
 border-right: none;
-text-decoration:none;
-color:#111111
 }
 nav ul li a {
+text-decoration:none;
+ color:#111111
 }
 table{
   font-size:70%;
@@ -85,3 +85,8 @@ th {
 td {
   background-color: #BA99C0;
 }
+nav ul li a {
+text-decoration:none;
+}
+nav li.selecionado{
+  color:#606060;
