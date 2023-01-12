@@ -69,3 +69,19 @@ color:#111111
 }
 nav ul li a {
 }
+table{
+  font-size:70%;
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-aling: left;
+}
+th {
+  background-color: #FCAB68;
+}
+td {
+  background-color: #BA99C0;
+}
