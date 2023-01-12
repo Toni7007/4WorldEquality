@@ -98,7 +98,7 @@ a:link {
  color: blue;
 }
 a:visited {
- text-decoration: underline;
+color: purple;
 }
 a:active {
  text-decoration: underline;
